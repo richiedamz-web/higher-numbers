@@ -21,18 +21,18 @@ var symbols = [
   "images/soixantequinze.jpg", 
   "images/quatrevingts.jpg",
   "images/quatrevingtcinq.jpg",
-  "images/quatrevingtdix.jpg"
-  "images/quatrevingtquinze.jpg"
-  "images/cent.jpg"
-  "images/dixsept.jpg"
-  "images/vingthuit.jpg"
-  "images/trentesept.jpg"
-  "images/quaranteneuf.jpg"
-  "images/cinquantetrois.jpg"
-  "images/soixantedeux.jpg"
-  "images/soixanteseize.jpg"
-  "images/quatrevingtsneuf.jpg"
-  "images/quatrevingttreize.jpg"
+  "images/quatrevingtdix.jpg",
+  "images/quatrevingtquinze.jpg",
+  "images/cent.jpg",
+  "images/dixsept.jpg",
+  "images/vingthuit.jpg",
+  "images/trentesept.jpg",
+  "images/quaranteneuf.jpg",
+  "images/cinquantetrois.jpg",
+  "images/soixantedeux.jpg",
+  "images/soixanteseize.jpg",
+  "images/quatrevingtsneuf.jpg",
+  "images/quatrevingttreize.jpg",
   "images/quatrevingtdixhuit.jpg"
 
 
