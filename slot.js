@@ -31,7 +31,7 @@ var symbols = [
   "images/cinquantetrois.jpg",
   "images/soixantedeux.jpg",
   "images/soixanteseize.jpg",
-  "images/quatrevingtsneuf.jpg",
+  "images/quatrevingtneuf.jpg",
   "images/quatrevingttreize.jpg",
   "images/quatrevingtdixhuit.jpg"
 
