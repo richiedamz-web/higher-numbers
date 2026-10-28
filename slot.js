@@ -4,24 +4,47 @@ function getCacheBustedUrl(url) {
 
 // Symbol list (use the actual filenames of your new sharp images)
 var symbols = [
-  "images/elleaunchienpaint2.jpg",
-  "images/ilaunchatpant.jpg",
-  "images/jadoreleschatspaint3.jpg",
-  "images/jaimeleschienspaint2.jpg",
-  "images/jenaimepaslesperroquetspaint2.jpg",
-  "images/jenaipasdanimalpaint2.jpg",
-  "images/ouijaimelesanimauxpaint3.jpg",
-  "images/tuaimeslesanimauxpaint3.jpg",
-  "images/unchatpnt.jpg",
-  "images/unchevalpant.jpg",
-  "images/unchienpaint2.jpg",
-  "images/uncochondindepnt.jpg", 
-  "images/unesourispaint.jpg", 
-  "images/unhamster.jpg",
-  "images/unherisson.jpg", 
-  "images/unlapin.jpg",
-  "images/unperroquetpnt.jpg",
-  "images/unpoissonrouge.jpg"
+  "images/cinq.jpg",
+  "images/dix.jpg",
+  "images/quinze.jpg",
+  "images/vingt.jpg",
+  "images/vingtcinq.jpg",
+  "images/trente.jpg",
+  "images/trentecinq.jpg",
+  "images/quarante.jpg",
+  "images/quarantecinq.jpg",
+  "images/cinquante.jpg",
+  "images/cinquantecinq.jpg",
+  "images/soixante.jpg", 
+  "images/soixantecinq.jpg", 
+  "images/soixantedix.jpg",
+  "images/soixantequinze.jpg", 
+  "images/quatrevingts.jpg",
+  "images/quatrevingtcinq.jpg",
+  "images/quatrevingtdix.jpg"
+  "images/quatrevingtquinze.jpg"
+  "images/cent.jpg"
+  "images/dixsept.jpg"
+  "images/vingthuit.jpg"
+  "images/trentesept.jpg"
+  "images/quaranteneuf.jpg"
+  "images/cinquantetrois.jpg"
+  "images/soixantedeux.jpg"
+  "images/soixanteseize.jpg"
+  "images/quatrevingtsneuf.jpg"
+  "images/quatrevingttreize.jpg"
+  "images/quatrevingtdixhuit.jpg"
+
+
+
+
+
+
+
+
+
+
+  
 ];
 
 // Initialize reels on page load
